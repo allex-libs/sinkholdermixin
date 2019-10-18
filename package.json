@@ -1,6 +1,6 @@
 {
   "name": "allex_sinkholdermixinlib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AllexJS mixin for classes that acquire Sinks",
   "main": "index.js",
   "scripts": {
